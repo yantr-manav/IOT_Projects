@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Bluetooth-Controlled ESP32 4WD Robot Car
 
 This project demonstrates a **Bluetooth-enabled 4-wheel drive robotic car using ESP32**, which can be controlled via simple Bluetooth commands from a smartphone or other Bluetooth-enabled devices.
@@ -99,3 +100,6 @@ MIT License. Feel free to use, modify, and distribute this project with proper a
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
 
 ---
+=======
+# IOT_Projects
+>>>>>>> 1fb4a824e607107c51189933315f8ea7599be881
